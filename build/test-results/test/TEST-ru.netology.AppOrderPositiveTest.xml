@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.AppOrderPositiveTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2023-08-15T09:27:19" hostname="VENTURE" time="18.583">
+  <properties/>
+  <testcase name="test0()" classname="ru.netology.AppOrderPositiveTest" time="5.07"/>
+  <testcase name="test1()" classname="ru.netology.AppOrderPositiveTest" time="2.175"/>
+  <testcase name="test2()" classname="ru.netology.AppOrderPositiveTest" time="2.255"/>
+  <testcase name="test3()" classname="ru.netology.AppOrderPositiveTest" time="2.135"/>
+  <testcase name="test4()" classname="ru.netology.AppOrderPositiveTest" time="2.432"/>
+  <testcase name="test5()" classname="ru.netology.AppOrderPositiveTest" time="2.26"/>
+  <testcase name="test6()" classname="ru.netology.AppOrderPositiveTest" time="2.233"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 48069
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1692091642.480][WARNING]: This version of ChromeDriver has not been tested with Chrome version 115.
+авг. 15, 2023 12:27:23 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 115, so returning the closest version found: 111
+Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 14250
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1692091645.882][WARNING]: This version of ChromeDriver has not been tested with Chrome version 115.
+авг. 15, 2023 12:27:26 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 115, so returning the closest version found: 111
+Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 36695
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1692091648.076][WARNING]: This version of ChromeDriver has not been tested with Chrome version 115.
+авг. 15, 2023 12:27:28 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 115, so returning the closest version found: 111
+Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 40654
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1692091650.317][WARNING]: This version of ChromeDriver has not been tested with Chrome version 115.
+авг. 15, 2023 12:27:30 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 115, so returning the closest version found: 111
+Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 25742
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1692091652.510][WARNING]: This version of ChromeDriver has not been tested with Chrome version 115.
+авг. 15, 2023 12:27:32 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 115, so returning the closest version found: 111
+Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 40839
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1692091654.993][WARNING]: This version of ChromeDriver has not been tested with Chrome version 115.
+авг. 15, 2023 12:27:35 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 115, so returning the closest version found: 111
+Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 21096
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1692091657.185][WARNING]: This version of ChromeDriver has not been tested with Chrome version 115.
+авг. 15, 2023 12:27:37 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 115, so returning the closest version found: 111
+]]></system-err>
+</testsuite>
