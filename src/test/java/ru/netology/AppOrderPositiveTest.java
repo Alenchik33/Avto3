@@ -12,10 +12,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class AppOrderPositiveTest {
     private WebDriver driver;
 
-    @BeforeAll
-    static void setUpAll() {
-        WebDriverManager.chromedriver().setup();
-    }
+
 
     @BeforeEach
     void setupTest() {
