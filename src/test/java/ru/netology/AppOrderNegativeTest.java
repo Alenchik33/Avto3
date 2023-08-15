@@ -1,8 +1,6 @@
 package ru.netology;
 
-import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.jupiter.api.AfterEach;
-import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.By;
@@ -10,14 +8,13 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
-import static io.github.bonigarcia.wdm.WebDriverManager.chromedriver;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class AppOrderNegativeTest {
     private WebDriver driver;
 
-    a
+
     @BeforeEach
     void setupTest() {
         ChromeOptions options = new ChromeOptions();
@@ -84,5 +81,4 @@ public class AppOrderNegativeTest {
         assertTrue(actual);
     }
 }
-
 
